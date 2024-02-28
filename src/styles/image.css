@@ -1,0 +1,22 @@
+.ulImage {
+    list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 50px;
+}
+
+.image {
+	max-height: 300px;
+	max-width: 300px;
+	border-radius: 10px;
+}
+
+.liImage {
+	margin: 10px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}

@@ -1,0 +1,14 @@
+.searchbar {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(76,57,190,1) 42%, rgba(0,75,117,1) 100%);
+    padding: 50px;
+}
+
+.button {
+    background-color: grey;
+}
+
+.input {
+    padding-right: 100px;
+    margin-right: 5px;
+}
